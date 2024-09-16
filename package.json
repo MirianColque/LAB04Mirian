@@ -1,0 +1,19 @@
+{
+  "name": "laboratorio4",
+  "version": "1.0.0",
+  "description": "Este es un proyecto de prueba para LAB04",
+  "main": "index.js",
+  "scripts": {
+    "test": "(leave empty)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirianColque/LAB04Mirian.git"
+  },
+  "author": "mirian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirianColque/LAB04Mirian/issues"
+  },
+  "homepage": "https://github.com/MirianColque/LAB04Mirian#readme"
+}
