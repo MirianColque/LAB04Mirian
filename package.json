@@ -1,7 +1,7 @@
 {
-  "name": "laboratorio4",
+  "name": "laboratorio3",
   "version": "1.0.0",
-  "description": "Este es un proyecto de prueba para LAB04",
+  "description": "Este es un proyecto de prueba para LAB03",
   "main": "index.js",
   "scripts": {
     "test": "(leave empty)"
